@@ -29,7 +29,7 @@ antistatusmention: 'off',
   autolike: 'off',
   autoview: 'on',
   wapresence: 'offline',
-  antiedit: 'private',
+  antiedit: 'off',
     menuTitle: "KVIP",
     antigroupmention: 'off'
 };
