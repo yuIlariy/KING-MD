@@ -11,11 +11,11 @@ try {
 
 // ================= DEFAULT BOT SETTINGS =================
 const defaultSettings = {
-  antilink: 'on',
+  antilink: 'off',
   antilinkall: 'off',
-  autobio: 'on',
-  antidelete: 'on',
-  antitag: 'on',
+  autobio: 'off',
+  antidelete: 'off',
+  antitag: 'off',
   antibot: 'off',
   anticall: 'off',
 antistatusmention: 'off',
@@ -24,13 +24,13 @@ antistatusmention: 'off',
   gptdm: 'off',
   welcomegoodbye: 'off',
   autoread: 'off',
-  mode: 'public',
+  mode: 'private',
   prefix: '.',
-  autolike: 'on',
+  autolike: 'off',
   autoview: 'on',
-  wapresence: 'online',
+  wapresence: 'offline',
   antiedit: 'private',
-    menuTitle: "KING MD VIP",
+    menuTitle: "KVIP",
     antigroupmention: 'off'
 };
 
